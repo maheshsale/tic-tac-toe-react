@@ -4,8 +4,6 @@
 ## Date: 9 Nov 2023
 
 ## Description
-This project is 100% developed by me without referring any follow along tutorial.
-It is part of my ReactJS practice.
 
 ## Features:
 1. All the requirements of tic tac toe game.
